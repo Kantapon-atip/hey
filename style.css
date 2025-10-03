@@ -12,3 +12,12 @@
 .container p { 
     color: #333;
 }
+
+.container button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
