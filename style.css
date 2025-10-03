@@ -12,3 +12,7 @@
 .container p { 
     color: #333;
 }
+
+.container h2 {
+    align-items: center;
+}
